@@ -1,4 +1,4 @@
-<h3 align="center">Dashboard Social Media Management</h3>
+<h3 align="center">Gmail Desktop Concept</h3>
 
 # Buy Me A Coffee ☕
 <p align="center">
