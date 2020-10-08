@@ -1,0 +1,13 @@
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\bin\Debug\Gmail Desktop Concept.exe.config
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\bin\Debug\Gmail Desktop Concept.exe
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\bin\Debug\Gmail Desktop Concept.pdb
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail Desktop Concept.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail_Desktop_Concept.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail_Desktop_Concept.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail Desktop Concept.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail Desktop Concept.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail Desktop Concept.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail Desktop Concept.exe
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail Desktop Concept.pdb
+D:\AW 17\Source Code Visual Studio 19\Gmail Desktop Concept\obj\Debug\Gmail_Desktop_Concept.compose.resources
